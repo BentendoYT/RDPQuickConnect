@@ -12,7 +12,7 @@ RDPQuickConnect is a lightweight Windows Forms application built with .NET Frame
 ## Installation
 
 1. Download the latest release from the [Releases](https://github.com/BentendoYT/RDPQuickConnect/releases) page.
-2. Run the installer (`RDPQuickConnect Setup.exe`) and follow the instructions.
+2. Run the installer (`RDPQuickConnectSetup.exe`) and follow the instructions.
 
 ## Usage
 
