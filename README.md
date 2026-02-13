@@ -1,4 +1,5 @@
-# RDPQuickConnect
+# <img width="1713" height="208" alt="RDPQuickConnectLogoFinale" src="https://github.com/user-attachments/assets/9b6daf6b-d266-4487-bd7d-f93df634cb17" />
+
 
 RDPQuickConnect is a lightweight Windows Forms application built with .NET Framework that allows users to quickly and securely establish Remote Desktop (RDP) sessions. The application temporarily stores credentials, launches the RDP session, and removes the credentials automatically, providing a simple and secure workflow for managing remote connections.
 
